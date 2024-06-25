@@ -1,0 +1,5 @@
+package com.primeirospring.userdept.controllers;
+
+public class UserController {
+
+}

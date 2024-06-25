@@ -1,0 +1,5 @@
+package com.primeirospring.userdept.repositories;
+
+public class UserRepository {
+
+}
